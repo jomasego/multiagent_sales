@@ -67,8 +67,8 @@ CarBot Pro showcases the cutting-edge capabilities of multi-agent AI systems in 
 ### Option 1: Automated Setup (Recommended)
 
 ```bash
-git clone https://github.com/LIDR-academy/car-salesman.git
-cd car-salesman
+git clone https://github.com/jomasego/multiagent_sales.git
+cd multiagent_sales/car-salesman
 python quick_setup_advanced.py
 ```
 
@@ -83,8 +83,8 @@ python quick_setup_advanced.py
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/LIDR-academy/car-salesman.git
-cd car-salesman
+git clone https://github.com/jomasego/multiagent_sales.git
+cd multiagent_sales/car-salesman
 ```
 
 2. **Create virtual environment**
